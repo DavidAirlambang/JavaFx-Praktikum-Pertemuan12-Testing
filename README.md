@@ -8,3 +8,4 @@
 - Tidak harus dilakukan di setiap app/software yang di develop. Manual testing cukup untuk menguji app/software yang sederhana. Automation testing menjadi alat yang sangat dibutuhkan di tengah kurang nya resource, biaya dan waktu yang dibutuhkan untuk melakukan pengujian kembali pada suatu sistem.
 
 ### 3. Cari tahu mengenai Test-driven Development (TDD) Jika sudah, coba buat program Java (bebas, program sederhana juga tidak apa2) dengan membuat testing dan menerapkan konsep TDD. Setelah itu, tuliskan pendapatmu setelah menerapkan testing dan konsep TDD, apakah konsep/paradigma ini dapat meringankan pekerjaanmu atau sebaliknya malah menyusahkan pekerjaan yang sudah ada.
+- Membantu dalam mengerjakan karena kita sudah tahu target akhir agar program jadi seperti apa
